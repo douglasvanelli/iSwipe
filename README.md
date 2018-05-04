@@ -4,10 +4,10 @@ iSwipe is the first gesture-based keyboard for iOS (pre-8.0)
 
 Features
 ---------
-- Uses objc-runtime to hook onto system keyboard methods and extend functionality
-- Converts input points into vector angles
-- Implements both a dynamic programming and greedy algorithm to match input to words
-- Best match is entered, remaining options are ranked in the suggestions box
+- Uses objc-runtime to hook onto system keyboard methods and extend functionality.
+- Converts input points into vector angles.
+- Implements both a dynamic programming and greedy algorithm to match input to words.
+- Best match is entered, remaining options are ranked in the suggestions box.
 
 ![iSwipe](img/animate.gif)
 
